@@ -316,5 +316,5 @@
     }
 
 },
-    "Message":"*** OpenMediation SDK 1.3.0 Update **\r\nOpenMediation latest SDK for Unity is currently available in GitHub.\r\nAfter updating the SDK, youll need to update to the latest adapter versions, as well.\r\nTo download the new version, go to your Unity menu > OpenMediation > GitHub"
+    "Message":"*** MintMediation SDK 1.3.0 Update **\r\nMintMediation latest SDK for Unity is currently available in GitHub.\r\nAfter updating the SDK, youll need to update to the latest adapter versions, as well.\r\nTo download the new version, go to your Unity menu > MintMediation > MintMediation"
 }
