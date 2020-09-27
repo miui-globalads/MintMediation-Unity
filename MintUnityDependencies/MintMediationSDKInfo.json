@@ -14,8 +14,8 @@
                 }
             },
             "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/OpenMediation/1.3.0/OpenMediationDependencies.xml",
-                "FileName":"OpenMediationDependencies.xml",
+                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/Mint-Android-SDK/1.3.0/MintMediationDependencies.xml",
+                "FileName":"MintMediationDependencies.xml",
                 "UnityAdapterVersion":"1.3.0"
             },
             "keyname":"MintMediation"
