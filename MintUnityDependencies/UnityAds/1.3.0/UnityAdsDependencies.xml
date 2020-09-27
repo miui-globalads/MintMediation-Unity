@@ -2,7 +2,7 @@
 <dependencies>
     <unityversion>1.3.0</unityversion>
     <androidPackages>
-        <androidPackage spec="com.adtiming.adapters.om:unity:1.3.0@aar">
+        <androidPackage spec="com.mi.dev.mint:unity:3.4.2_1@aar">
             <repositories>
                 <repository>https://maven.google.com/</repository>
             </repositories>

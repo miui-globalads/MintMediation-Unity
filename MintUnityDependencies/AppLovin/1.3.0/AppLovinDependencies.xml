@@ -2,7 +2,7 @@
 <dependencies>
     <unityversion>1.3.0</unityversion>
     <androidPackages>
-        <androidPackage spec="com.adtiming.adapters.om:applovin:1.3.0@aar">
+        <androidPackage spec="com.mi.dev.mint:applovin:9.12.6_1@aar">
             <repositories>
                 <repository>https://maven.google.com/</repository>
             </repositories>
