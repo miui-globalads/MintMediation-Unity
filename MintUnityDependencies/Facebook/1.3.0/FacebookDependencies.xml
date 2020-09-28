@@ -7,7 +7,7 @@
                 <repository>https://maven.google.com/</repository>
             </repositories>
         </androidPackage>
-        <androidPackage spec="com.facebook.android:audience-network-sdk:6.0.0">
+        <androidPackage spec="com.facebook.android:audience-network-sdk:5.10.1">
             <repositories>
             <repository>https://maven.google.com/</repository>
             </repositories>
