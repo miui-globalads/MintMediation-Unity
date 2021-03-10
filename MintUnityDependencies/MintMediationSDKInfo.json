@@ -3,318 +3,237 @@
         "MintMediation":{
             "iOS":{
                 "version":{
-                    "adapter":"1.3.2",
-                    "sdk":"1.3.2"
+                    "adapter":"1.3.3",
+                    "sdk":"1.3.3"
                 }
             },
             "Android":{
                 "version":{
-                    "adapter":"1.3.0",
-                    "sdk":"1.3.1"
+                    "adapter":"1.3.1",
+                    "sdk":"1.0.4.0"
                 }
             },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/Mint-Android-SDK/1.3.0/MintMediationDependencies.xml",
-                "FileName":"MintMediationDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
+            "Unity": {
+                "DownloadUrl": "https://hk-file.intl.miui.com/mint/MintUnityDependencies/Mint-Android-SDK/1.3.1/MintMediationDependencies.xml",
+                "FileName": "MintMediationDependencies.xml",
+                "UnityAdapterVersion": "1.3.1"
             },
             "keyname":"MintMediation"
-        },
-        "AdTiming":{
-            "iOS":{
-                "version":{
-                    "adapter":"1.3.2",
-                    "sdk":"4.3.1"
-                }
-            },
-            "Android":{
-                "version":{
-                    "adapter":"1.3.0",
-                    "sdk":"6.6.0"
-                }
-            },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/AdTiming/1.3.0/AdTimingDependencies.xml",
-                "FileName":"AdTimingDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
-            },
-            "keyname":"AdTiming"
         },
         "AdMob":{
             "iOS":{
                 "version":{
-                    "adapter":"1.3.2",
+                    "adapter":"1.3.3",
                     "sdk":"7.62.0"
                 }
             },
             "Android":{
                 "version":{
                     "adapter":"1.3.1",
-                    "sdk":"19.1.0"
+                    "sdk":"19.5.0"
                 }
             },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/AdMob/1.3.0/AdMobDependencies.xml",
-                "FileName":"AdMobDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
+            "Unity": {
+                "DownloadUrl": "https://hk-file.intl.miui.com/mint/MintUnityDependencies/AdMob/1.3.1/AdMobDependencies.xml",
+                "FileName": "AdMobDependencies.xml",
+                "UnityAdapterVersion": "1.3.1"
             },
             "keyname":"AdMob"
         },
         "Facebook":{
             "iOS":{
                 "version":{
-                    "adapter":"1.3.2",
-                    "sdk":"5.10.1"
+                    "adapter":"1.3.3",
+                    "sdk":"6.2.0"
                 }
             },
             "Android":{
                 "version":{
-                    "adapter":"1.3.0",
-                    "sdk":"5.10.1"
+                    "adapter":"1.3.1",
+                    "sdk":"6.2.0"
                 }
             },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/Facebook/1.3.0/FacebookDependencies.xml",
-                "FileName":"FacebookDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
+            "Unity": {
+                "DownloadUrl": "https://hk-file.intl.miui.com/mint/MintUnityDependencies/Facebook/1.3.1/FacebookDependencies.xml",
+                "FileName": "FacebookDependencies.xml",
+                "UnityAdapterVersion": "1.3.1"
             },
             "keyname":"Facebook"
         },
         "UnityAds":{
             "iOS":{
                 "version":{
-                    "adapter":"1.3.2",
+                    "adapter":"1.3.3",
                     "sdk":"3.4.6"
                 }
             },
             "Android":{
                 "version":{
-                    "adapter":"1.3.0",
-                    "sdk":"3.4.6"
+                    "adapter":"1.3.1",
+                    "sdk":"3.5.0"
                 }
             },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/UnityAds/1.3.0/UnityAdsDependencies.xml",
-                "FileName":"UnityAdsDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
+            "Unity": {
+                "DownloadUrl": "https://hk-file.intl.miui.com/mint/MintUnityDependencies/UnityAds/1.3.1/UnityAdsDependencies.xml",
+                "FileName": "UnityAdsDependencies.xml",
+                "UnityAdapterVersion": "1.3.1"
             },
             "keyname":"UnityAds"
         },
         "Vungle":{
             "iOS":{
                 "version":{
-                    "adapter":"1.3.2",
+                    "adapter":"1.3.3",
                     "sdk":"6.7.0"
                 }
             },
             "Android":{
                 "version":{
-                    "adapter":"1.3.0",
-                    "sdk":"6.5.3"
+                    "adapter":"1.3.1",
+                    "sdk":"6.8.1"
                 }
             },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/Vungle/1.3.0/VungleDependencies.xml",
-                "FileName":"VungleDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
+            "Unity": {
+                "DownloadUrl": "https://hk-file.intl.miui.com/mint/MintUnityDependencies/Vungle/1.3.1/VungleDependencies.xml",
+                "FileName": "VungleDependencies.xml",
+                "UnityAdapterVersion": "1.3.1"
             },
             "keyname":"Vungle"
         },
         "AdColony":{
             "iOS":{
                 "version":{
-                    "adapter":"1.3.2",
+                    "adapter":"1.3.3",
                     "sdk":"4.1.5"
                 }
             },
             "Android":{
                 "version":{
-                    "adapter":"1.3.0",
-                    "sdk":"4.1.4"
+                    "adapter":"1.3.1",
+                    "sdk":"4.3.0"
                 }
             },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/AdColony/1.3.0/AdColonyDependencies.xml",
-                "FileName":"AdColonyDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
+            "Unity": {
+                "DownloadUrl": "https://hk-file.intl.miui.com/mint/MintUnityDependencies/AdColony/1.3.1/AdColonyDependencies.xml",
+                "FileName": "AdColonyDependencies.xml",
+                "UnityAdapterVersion": "1.3.1"
             },
             "keyname":"AdColony"
         },
         "AppLovin":{
             "iOS":{
                 "version":{
-                    "adapter":"1.3.2",
+                    "adapter":"1.3.3",
                     "sdk":"6.13.0"
                 }
             },
             "Android":{
                 "version":{
-                    "adapter":"1.3.0",
-                    "sdk":"9.13.1"
+                    "adapter":"1.3.1",
+                    "sdk":"9.14.1"
                 }
             },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/AppLovin/1.3.0/AppLovinDependencies.xml",
-                "FileName":"AppLovinDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
+            "Unity": {
+                "DownloadUrl": "https://hk-file.intl.miui.com/mint/MintUnityDependencies/AppLovin/1.3.1/AppLovinDependencies.xml",
+                "FileName": "AppLovinDependencies.xml",
+                "UnityAdapterVersion": "1.3.1"
             },
             "keyname":"AppLovin"
         },
         "MoPub":{
             "iOS":{
                 "version":{
-                    "adapter":"1.3.2",
+                    "adapter":"1.3.3",
                     "sdk":"5.13.0"
                 }
             },
             "Android":{
                 "version":{
-                    "adapter":"1.3.0",
-                    "sdk":"5.12.0"
+                    "adapter":"1.3.1",
+                    "sdk":"5.14.0"
                 }
             },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/MoPub/1.3.0/MoPubDependencies.xml",
-                "FileName":"MoPubDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
+            "Unity": {
+                "DownloadUrl": "https://hk-file.intl.miui.com/mint/MintUnityDependencies/MoPub/1.3.1/MoPubDependencies.xml",
+                "FileName": "MoPubDependencies.xml",
+                "UnityAdapterVersion": "1.3.1"
             },
             "keyname":"MoPub"
         },
         "Tapjoy":{
             "iOS":{
                 "version":{
-                    "adapter":"1.3.2",
+                    "adapter":"1.3.3",
                     "sdk":"12.6.1"
                 }
             },
             "Android":{
                 "version":{
-                    "adapter":"1.3.0",
-                    "sdk":"12.4.2"
+                    "adapter":"1.3.1",
+                    "sdk":"12.7.0"
                 }
             },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/Tapjoy/1.3.0/TapjoyDependencies.xml",
-                "FileName":"TapjoyDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
+            "Unity": {
+                "DownloadUrl": "https://hk-file.intl.miui.com/mint/MintUnityDependencies/Tapjoy/1.3.1/TapjoyDependencies.xml",
+                "FileName": "TapjoyDependencies.xml",
+                "UnityAdapterVersion": "1.3.1"
             },
             "keyname":"Tapjoy"
         },
         "Chartboost":{
             "iOS":{
                 "version":{
-                    "adapter":"1.3.2",
+                    "adapter":"1.3.3",
                     "sdk":"8.2.0"
                 }
             },
             "Android":{
                 "version":{
-                    "adapter":"1.3.0",
-                    "sdk":"8.0.2"
+                    "adapter":"1.3.1",
+                    "sdk":"8.1.0"
                 }
             },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/Chartboost/1.3.0/ChartboostDependencies.xml",
-                "FileName":"ChartboostDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
+            "Unity": {
+                "DownloadUrl": "https://hk-file.intl.miui.com/mint/MintUnityDependencies/Chartboost/1.3.1/ChartboostDependencies.xml",
+                "FileName": "ChartboostDependencies.xml",
+                "UnityAdapterVersion": "1.3.1"
             },
             "keyname":"Chartboost"
-        },
-        "TikTok":{
-            "iOS":{
-                "version":{
-                    "adapter":"1.3.2",
-                    "sdk":"3.1.0.5"
-                }
-            },
-            "Android":{
-                "version":{
-                    "adapter":"1.2.0",
-                    "sdk":"2.1.5.0"
-                }
-            },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/TikTok/1.3.0/TikTokDependencies.xml",
-                "FileName":"TikTokDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
-            },
-            "keyname":"TikTok"
-        },
-        "Mintegral":{
-            "iOS":{
-                "version":{
-                    "adapter":"1.3.2",
-                    "sdk":"6.3.7"
-                }
-            },
-            "Android":{
-                "version":{
-                    "adapter":"1.4.1",
-                    "sdk":"14.1.01"
-                }
-            },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/Mintegral/1.3.0/MintegralDependencies.xml",
-                "FileName":"MintegralDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
-            },
-            "keyname":"Mintegral"
         },
         "IronSource":{
             "iOS":{
                 "version":{
-                    "adapter":"1.3.2",
+                    "adapter":"1.3.3",
                     "sdk":"6.17.0"
                 }
             },
             "Android":{
                 "version":{
-                    "adapter":"1.2.1",
-                    "sdk":"6.17.0"
+                    "adapter":"1.3.1",
+                    "sdk":"7.0.3.1"
                 }
             },
-            "Unity":{
-                "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/IronSource/1.3.0/IronSourceDependencies.xml",
-                "FileName":"IronSourceDependencies.xml",
-                "UnityAdapterVersion":"1.3.0"
+            "Unity": {
+                "DownloadUrl": "https://hk-file.intl.miui.com/mint/MintUnityDependencies/IronSource/1.3.1/IronSourceDependencies.xml",
+                "FileName": "IronSourceDependencies.xml",
+                "UnityAdapterVersion": "1.3.1"
             },
             "keyname":"IronSource"
         },
-    "Fyber":{
-        "iOS":{
-            "version":{
-                "adapter":"1.3.2",
-                "sdk":"7.5.3"
-            }
-        },
-        "Android":{
-            "version":{
-                "adapter":"1.2.0",
-                "sdk":"7.5.4"
-            }
-        },
-        "Unity":{
-            "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/Fyber/1.3.0/FyberDependencies.xml",
-            "FileName":"FyberDependencies.xml",
-            "UnityAdapterVersion":"1.3.0"
-        },
-        "keyname":"Fyber"
-    },
-    "TencentAds":{
-        "iOS":{
-            "version":{
-                "adapter":"1.3.2",
-                "sdk":"4.11.8"
-            }
-        },
-        "Unity":{
-            "DownloadUrl":"https://raw.githubusercontent.com/miui-globalads/MintMediation-Unity/master/MintUnityDependencies/TencentAds/1.3.0/TencentAdsDependencies.xml",
-            "FileName":"TencentAdsDependencies.xml",
-            "UnityAdapterVersion":"1.3.0"
-        },
-        "keyname":"TencentAds(iOS only)"
-    }
-
+        "Columbus":{
+            "Android":{
+                "version":{
+                    "adapter":"1.3.1",
+                    "sdk":"1.3.7.1"
+                }
+            },
+            "Unity": {
+                "DownloadUrl": "https://hk-file.intl.miui.com/mint/MintUnityDependencies/Columbus/1.3.1/ColumbusDependencies.xml",
+                "FileName": "ColumbusDependencies.xml",
+                "UnityAdapterVersion": "1.3.1"
+            },
+            "keyname":"Columbus"
+        }
 },
-    "Message":"*** MintMediation SDK 1.3.0 Update **\r\nMintMediation latest SDK for Unity is currently available in GitHub.\r\nAfter updating the SDK, youll need to update to the latest adapter versions, as well.\r\nTo download the new version, go to your Unity menu > MintMediation > MintMediation"
+    "Message":"*** MintMediation SDK 1.3.1 Update **\r\nMintMediation latest SDK for Unity is currently available in GitHub.\r\nAfter updating the SDK, youll need to update to the latest adapter versions, as well.\r\nTo download the new version, go to your Unity menu > MintMediation > MintMediation"
 }
